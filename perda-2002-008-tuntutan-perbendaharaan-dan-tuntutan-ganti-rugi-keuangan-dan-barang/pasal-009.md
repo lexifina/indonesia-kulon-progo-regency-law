@@ -1,0 +1,5 @@
+# Pasal 9
+(1) Apabila seorang Pemegang Kas/Bendaharawan Barang meninggal dunia, melarikan diri atau berada dibawah pengampuan dan lalai membuat perhitungan setelah ditegur 3 (tiga) kali berturut-turut belum menyampaikan perhitungan, maka pada kesempatan pertama atasan langsung atas nama Bupati melakukan tindakan pengamanan untuk menjamin kepentingan Daerah dengan cara :
+a. Buku Kas dan semua Buku Pemegang Kas/Bendaharawan Barang diberi garis penutup; dan b. Semua uang, surat dan barang berharga, surat-surat bukti maupun buku-buku disimpan/dimasukkan dalam lemari besi dan disegel.
+(2) Khusus untuk Bendaharawan Barang, dilakukan penyegelan terhadap gedung dan atau tempat penyimpanan barang-barang yang menjadi tanggung jawab Bendaharawan Barang.
+(3) Tindakan-tindakan tersebut ayat (1) Pasal ini dituangkan dalam Berita Acara Penyegelan dan disaksikan oleh ahli waris bagi yang meninggal dunia dan keluarga terdekat bagi yang melarikan diri atau pengampu (kurator) dalam hak Pemegang Kas/Bendaharawan Barang berada dibawah pengampuan serta pejabat Pemerintah Daerah setempat.
