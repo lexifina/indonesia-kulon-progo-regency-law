@@ -1,0 +1,2 @@
+# Pasal 61
+Dengan berlakunya Peraturan Daerah ini, maka Peraturan Daerah Kabupaten Kulon Progo Nomor 11 Tahun 2000 tentang Pembentukan, Organisasi dan Tata Kerja Dinas Daerah (Lembaran Daerah Tahun 2000 Nomor 11 Seri D) yang telah diubah dengan Peraturan Daerah Kabupaten Kulon Progo Nomor 5 Tahun 2003 tentang Perubahan Peraturan Daerah Kabupaten Kulon Progo Nomor 11 Tahun 2000 tentang Pembentukan, Organisasi dan Tata Kerja Dinas Daerah (Lembaran Daerah Tahun 2003 Nomor 1 Seri D) dinyatakan tidak berlaku.
