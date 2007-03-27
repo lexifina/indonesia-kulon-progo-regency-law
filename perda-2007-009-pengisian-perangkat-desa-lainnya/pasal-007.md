@@ -1,0 +1,5 @@
+# Pasal 7
+(1) Jangka waktu pendaftaran dilaksanakan selama 14 (empat belas) hari kerja dengan ketentuan jumlah Bakal Calon yang mendaftar paling sedikit 2 (dua) orang.
+(2) Apabila dalam jangka waktu dimaksud ayat (1) belum mendapatkan paling sedikit 2 (dua) orang, maka jangka waktu pendaftaran diperpanjang untuk selama 7 (tujuh) hari kerja.
+(3) Apabila sampai batas waktu perpanjangan dimaksud ayat (2), belum juga mendapatkan paling sedikit 2 (dua) orang Bakal Calon, Panitia Peneliti dan Penguji melakukan konsultasi dengan Kepala Desa untuk melakukan perpanjangan jangka waktu pendaftaran selama 7 (tujuh) hari kerja.
+(4) Dalam hal setelah perpanjangan dimaksud ayat (3) dilaksanakan, tetap tidak mendapatkan paling sedikit 2 (dua) orang Bakal Calon, maka dilakukan pendaftaran dari awal sebagaimana dimaksud mekanisme ayat (1), (2), dan (3) (5) Setiap diadakan perpanjangan dimaksud ayat (2) dan (3) atau pendaftaran dari awal dimaksud ayat (4), Panitia Peneliti dan Penguji mengumumkan paling lama pada hari pertama perpanjangan/ pendaftaran dari awal dengan membuat Berita Acara.

@@ -1,0 +1,2 @@
+# Pasal 47
+Dalam hal Perangkat Desa Lainnya disangka atau didakwa terlibat di dalam suatu tindak pidana selain pidana korupsi, terorisme, makar atau tindak pidana terhadap keamanan negara yang diancam dengan pidana penjara paling lama 5 (lima) tahun atau lebih, atau menjalani proses penahanan selama proses pemeriksaan perkara pidana tersebut, dengan persetujuan BPD Kepala Desa memberhentikan sementara Perangkat Desa Lainnya yang bersangkutan.
