@@ -1,0 +1,7 @@
+# Pasal 19
+(1) Apabila jumlah Pemilih yang hadir kurang dari yang ditentukan dimaksud Pasal 18 pemilihan Calon yang Berhak Dipilih diundur selama 1 (satu) jam.
+(2) Apabila sampai batas waktu pengunduran dimaksud ayat (1) quorum belum juga tercapai, pelaksanaan pemilihan Calon yang Berhak Dipilih diundur lagi selama 1 ( satu ) jam, dengan quorum ½ (satu per dua) lebih 1 (satu) dari jumlah Pemilih Tetap.
+(3) Apabila sampai batas waktu pengunduran dimaksud ayat (2), quorum belum terpenuhi maka pemilihan Kepala Desa dinyatakan batal dan pemilihan diulang dari proses awal paling lambat 3 (tiga) bulan setelah pembatalan.
+(4) Pengunduran waktu dan/atau pembatalan Rapat Pemilihan Calon yang Berhak Dipilih diumumkan oleh Ketua Panitia Pemilihan dan dituangkan dalam Berita Acara Penundaan dan/atau Pembatalan Pemilihan.
+Bagian Kesepuluh
+Penghitungan Suara
