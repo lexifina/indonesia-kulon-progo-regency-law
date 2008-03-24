@@ -1,0 +1,2 @@
+# Pasal 35
+Kantor Kesatuan Bangsa dan Perlindungan Masyarakat mempunyai fungsi perumusan kebijakan teknis di bidang kesatuan bangsa dan perlindungan masyarakat, pemberian dukungan atas penyelenggaraan Pemerintahan Daerah di bidang kesatuan bangsa dan perlindungan masyarakat, pembinaan dan pelaksanaan tugas di bidang kesatuan bangsa dan perlindungan masyarakat serta pelaksanaan tugas lain yang diberikan Bupati di bidang kesatuan bangsa dan perlindungan masyarakat.

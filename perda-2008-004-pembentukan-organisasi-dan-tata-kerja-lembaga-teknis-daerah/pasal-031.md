@@ -1,0 +1,2 @@
+# Pasal 31
+Kantor Ketahanan Pangan dan Penyuluhan Pertanian Perikanan Kehutanan mempunyai fungsi perumusan kebijakan teknis di bidang ketahanan pangan dan penyuluhan pertanian, perikanan, kehutanan, pemberian dukungan atas penyelenggaraan Peemerintahan Daerah di bidang ketahanan pangan dan penyuluhan pertanian, perikanan, kehutanan, pembinaan dan pelaksanaan tugas di bidang ketahanan pangan dan penyuluhan pertanian, perikanan, kehutanan serta pelaksanaan tugas lain yang diberikan Bupati di bidang ketahanan pangan dan penyuluhan pertanian, perikanan, kehutanan.
