@@ -1,0 +1,3 @@
+# Pasal 9
+(1) Sekdes Non PNS/Perangkat Desa Lainnya yang diberhentikan dengan hormat dari jabatannya dan mempunyai masa kerja paling kurang 2 (dua) tahun diberikan Tunjangan Purna Tugas sebesar 1/5 (satu per lima) dari penghasilan pokok Sekdes Non PNS/Perangkat Desa Lainnya dengan jangka waktu pemberian 1/2 (satu per dua) dari masa jabatan Sekdes Non PNS/Perangkat Desa Lainnya yang diberhentikan.
+(2) Bagi mantan Sekdes Non PNS/Perangkat Desa Lainnya sebagaimana dimaksud pada ayat (1) yang meninggal dunia sebelum masa pemberian Tunjangan Purna Tugas selesai, maka Tunjangan Purna Tugas diberikan kepada ahli waris yang paling berhak.

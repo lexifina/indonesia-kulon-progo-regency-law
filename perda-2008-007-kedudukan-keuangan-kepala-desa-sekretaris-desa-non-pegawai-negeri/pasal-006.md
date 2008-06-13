@@ -1,0 +1,6 @@
+# Pasal 6
+(1) Tunjangan isteri/suami sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf a diberikan kepada Kepala Desa/Sekdes Non PNS/ Perangkat Desa Lainnya yang beristeri/bersuami sebesar 5% (lima per seratus) dari penghasilan pokok Kepala Desa/Sekdes Non PNS/ Perangkat Desa Lainnya.
+(2) Tunjangan anak sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf b diberikan kepada Kepala Desa/Sekdes Non PNS/ Perangkat Desa Lainnya yang mempunyai anak, sebesar 2% (dua per seratus) dari penghasilan pokok untuk setiap anak, paling banyak 2 (dua) orang anak, dengan ketentuan :
+a. anak berumur kurang dari 21 (dua puluh satu) tahun, kecuali bagi anak yang masih kuliah, berumur sampai dengan 25 (dua puluh lima) tahun dengan menyertakan Surat Pernyataan dari Universitas/Akademi bahwa anak tersebut benar-benar masih menempuh pendidikan;
+b. belum pernah kawin; atau c. tidak mempunyai penghasilan sendiri.
+(3) Tunjangan kesehatan sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf c dan santunan kecelakaan/kematian sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf b diberikan kepada Kepala Desa/Sekdes Non PNS/Perangkat Desa Lainnya serta keluarganya dalam bentuk pembayaran premi jaminan asuransi kesehatan/jiwa.
