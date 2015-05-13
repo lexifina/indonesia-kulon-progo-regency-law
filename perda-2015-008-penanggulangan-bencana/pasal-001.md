@@ -1,0 +1,42 @@
+# Pasal 1
+Dalam Peraturan Daerah ini yang dimaksud dengan :
+1. Daerah adalah Kabupaten Kulon Progo.
+2. Pemerintah Daerah adalah Bupati dan Perangkat Daerah sebagai unsur penyelenggara Pemerintahan Daerah.
+3. Bupati adalah Bupati Kulon Progo.
+4. Dewan Perwakilan Rakyat Daerah, yang selanjutnya disebut DPRD, adalah Dewan Perwakilan Rakyat Daerah Kabupaten Kulon Progo.
+5. Badan Penanggulangan Bencana Daerah, yang selanjutnya disebut BPBD adalah BPBD Kabupaten Kulon Progo yang dipimpin oleh seorang Kepala yang secara ex-officio di jabat oleh Sekretaris Daerah.
+6. Forum untuk pengurangan resiko bencana, adalah suatu forum untuk mengakomodasi inisiatif-inisiatif pengurangan resiko bencana di Daerah.
+7. Bencana adalah peristiwa atau rangkaian peristiwa yang mengancam dan mengganggu kehidupan dan penghidupan masyarakat yang disebabkan, baik oleh faktor alam dan/atau faktor non alam maupun faktor manusia sehingga mengakibatkan timbulnya korban jiwa manusia, kerusakan lingkungan, kerugian harta benda, dan dampak psikologis.
+8. Bencana alam adalah bencana yang diakibatkan oleh peristiwa atau serangkaian peristiwa yang disebabkan oleh alam antara lain berupa gempa bumi, tsunami, gunung meletus, banjir, kekeringan, angin topan, dan tanah longsor.
+9. Bencana non alam adalah bencana yang diakibatkan oleh peristiwa atau rangkaian peristiwa non alam yang antara lain berupa gagal teknologi, gagal modernisasi, epidemi, dan wabah penyakit.
+10. Bencana sosial adalah bencana yang diakibatkan oleh peristiwa atau serangkaian peristiwa yang diakibatkan oleh manusia yang meliputi antara lain konflik sosial antar kelompok atau antar komunitas masyarakat, dan teror.
+11. Penyelenggaraan penanggulangan bencana adalah serangkaian upaya yang meliputi penetapan kebijakan pembangunan yang beresiko timbulnya bencana, kegiatan pencegahan bencana, tanggap darurat, dan rehabilitasi.
+12. Pengurangan resiko bencana adalah kegiatan untuk mengurangi ancaman dan kerentanan serta meningkatkan kemampuan masyarakat dalam menghadapi bencana.
+13. Prabencana adalah situasi dimana tidak terjadi bencana.
+14. Rencana penanggulangan bencana adalah dokumen perencanaan yang berisi kebijakan strategi, program dan pilihan tindakan dalam penyelenggaraan penanggulangan bencana dari tahap pra, tanggap darurat dan pasca bencana.
+15. Rencana aksi daerah pengurangan resiko bencana adalah dokumen perencanaan pengurangan resiko bencana yang berisi landasan prioritas, strategi yang disusun oleh seluruh pemangku kepentingan yang disusun secara partisipatif komprehensif dan sinergis oleh seluruh pemangku kepentingan untuk mengurangi resiko bencana dalam rangka membangun kesiapsiagaan dan ketangguhan masyarakat dalam menghadapi bencana.
+16. Kegiatan pencegahan bencana adalah serangkaian kegiatan yang dilakukan sebagai upaya untuk menghilangkan dan/atau mengurangi ancaman bencana.
+17. Status potensi bencana adalah suatu keadaan yang ditetapkan oleh Pemerintah dan/atau Pemerintah Daerah untuk menilai potensi bencana yang akan terjadi pada jangka waktu tertentu atas dasar rekomendasi badan yang diberi tugas untuk menanggulangi bencana.
+18. Daerah rawan bencana adalah daerah yang memiliki kondisi atau karakteristik geologis, biologis, hidrologis, klimatologis, geografis, sosial, budaya, politik, ekonomi, dan teknologi pada suatu wilayah untuk jangka waktu tertentu yang mengurangi kemampuan mencegah, meredam, mencapai kesiapan, dan mengurangi kemampuan untuk menanggapi dampak buruk bahaya tertentu.
+19. Resiko bencana adalah potensi kerugian yang ditimbulkan akibat bencana pada suatu wilayah dalam kurun waktu tertentu yang dapat berupa kematian, luka, sakit, jiwa terancam, hilangnya rasa aman, mengungsi, kerusakan atau kehilangan harta, dan gangguan kegiatan masyarakat.
+20. Kesiapsiagaan adalah serangkaian kegiatan yang dilakukan untuk mengantisipasi bencana melalui pengorganisasian serta melalui langkah yang tepat guna dan berdaya guna.
+21. Mitigasi adalah serangkaian upaya untuk mengurangi resiko bencana, baik melalui pembangunan fisik maupun penyadaran dan peningkatan kemampuan menghadapi ancaman bencana.
+22. Status Keadaan Darurat Bencana adalah suatu keadaan yang ditetapkan oleh Pemerintah dan/atau Pemerintah Daerah untuk jangka waktu tertentu atas dasar rekomendasi lembaga yang diberi tugas untuk menanggulangi bencana yang dimulai sejak status Siaga Darurat, Tanggap Darurat, dan Transisi Darurat ke Pemulihan.
+23. Status Siaga Darurat Bencana adalah suatu keadaan terdapat potensi bencana, yang merupakan peningkatan eskalasi ancaman yang penentuannya didasarkan atas hasil pemantauan yang akurat oleh instansi yang berwenang dan juga mempertimbangkan kondisi nyata/dampak yang terjadi di masyarakat.
+24. Status Tanggap Darurat Bencana adalah serangkaian kegiatan yang dilakukan dengan segera pada saat kejadian bencana untuk menangani dampak buruk yang ditimbulkan, yang meliputi kegiatan penyelamatan dan evakuasi korban, harta benda, pemenuhan kebutuhan dasar, perlindungan, pengurusan pengungsi, penyelamatan, serta pemulihan prasarana dan sarana.
+25. Status Transisi Darurat Bencana ke Pemulihan adalah keadaan dimana penanganan darurat bersifat sementara/permanen berdasarkan kajian teknis dari instansi yang berwenang dengan tujuan agar sarana prasarana vital serta kegiatan sosial ekonomi masyarakat segera berfungsi, yang dilakukan sejak berlangsungnya tanggap darurat sampai dengan tahap rehabilitasi dan rekonstruksi dimulai.
+26. Wilayah bencana adalah wilayah tertentu yang terkena dampak bencana.
+27. Pasca bencana adalah situasi setelah tanggap darurat bencana.
+28. Rehabilitasi adalah perbaikan dan pemulihan semua aspek pelayanan publik atau masyarakat sampai tingkat yang memadai pada wilayah pasca bencana dengan sasaran utama untuk normalisasi atau berjalannya secara wajar semua aspek pemerintahan dan kehidupan masyarakat pada wilayah pasca bencana.
+29. Rekonstruksi adalah pembangunan kembali semua sarana dan prasarana, kelembagaan pada wilayah pasca bencana, baik pada tingkat pemerintahan maupun masyarakat dengan sasaran utama tumbuh dan berkembangnya kegiatan perekonomian, sosial dan budaya, tegaknya hukum dan ketertiban, dan bangkitnya peran serta masyarakat dalam segala aspek kehidupan bermasyarakat pada wilayah pasca bencana.
+30. Korban bencana yang selanjutnya disebut korban adalah orang atau sekelompok orang yang menderita atau meninggal dunia akibat bencana.
+31. Pengungsi adalah orang atau sekelompok orang yang terpaksa atau dipaksa keluar dari tempat tinggalnya sebagai akibat buruk bencana.
+32. Penyintas adalah korban yang selamat dan mampu bangkit kembali.
+33. Kerugian adalah berkurang atau hilangnya manfaat dari suatu kepemilikan korban bencana.
+34. Sarana dan prasarana penanggulangan bencana adalah alat yang dipakai untuk mempermudah pekerjaan, pencapaian maksud dan tujuan, serta upaya yang digunakan untuk mencegah, mengatasi, dan menanggulangi bencana.
+35. Kemudahan akses adalah penyederhanaan proses atas upaya penyelenggaraan penanggulangan bencana pada saat tanggap darurat yang meliputi pengkajian secara cepat terhadap lokasi bencana (need assessment), kerusakan (damage assessment), dan penyediaan sumber daya, penyelamatan dan evakuasi masyarakat terkena bencana, pemenuhan kebutuhan dasar, perlindungan terhadap kelompok rentan, dan pemulihan dengan segera sarana dan prasarana fasilitas umum.
+36. Lembaga Usaha adalah setiap badan hukum yang dapat berbentuk Badan Usaha Milik Negara, Badan Usaha Milik Daerah, koperasi, atau swasta yang didirikan sesuai dengan ketentuan peraturan perundang-undangan yang menjalankan jenis usaha tetap dan terus menerus yang bekerja dan berkedudukan dalam wilayah Negara Kesatuan Republik Indonesia.
+37. Organisasi Kemasyarakatan adalah organisasi yang dibentuk oleh anggota masyarakat Warga Negara Republik Indonesia secara sukarela atas dasar kesamaan kegiatan, profesi, fungsi, agama, dan kepercayaan terhadap Tuhan Yang Maha Esa, untuk berperan serta dalam pembangunan dalam rangka mencapai tujuan nasional dalam wadah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila.
+38. Lembaga Internasional adalah organisasi yang berada dalam lingkup struktur organisasi Perserikatan Bangsa-Bangsa atau yang menjalankan tugas mewakili Perserikatan Bangsa-Bangsa atau organisasi internasional lainnya dan lembaga asing non pemerintah dari negara lain di luar Perserikatan Bangsa-Bangsa.
+BAB II
+ASAS, PRINSIP, DAN TUJUAN

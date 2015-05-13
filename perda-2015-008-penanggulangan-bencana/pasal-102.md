@@ -1,0 +1,4 @@
+# Pasal 102
+Pada saat berlakunya Peraturan Daerah ini, segala ketentuan yang berkaitan dengan penanggulangan bencana di Kabupaten Kulon Progo dinyatakan tetap berlaku sepanjang tidak bertentangan atau belum dikeluarkan peraturan pelaksanaan baru berdasarkan Peraturan Daerah ini.
+BAB XII
+KETENTUAN PENUTUP
