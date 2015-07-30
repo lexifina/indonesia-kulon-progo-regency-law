@@ -1,0 +1,3 @@
+# Pasal 15
+(1) Arah kebijakan pembangunan daya tarik wisata sebagaimana dimaksud dalam Pasal 13 dan Pasal 14 dilaksanakan berdasarkan prinsip keseimbangan antara upaya pengembangan manajemen atraksi untuk menciptakan daya tarik wisata berkualitas dan berdaya saing, dan pengembangan upaya konservasi untuk menjaga kelestarian dan keberlanjutan sumber daya pariwisata.
+(2) Arah kebijakan pembangunan daya tarik wisata sebagaimana dimaksud pada ayat (1), juga mewadai pembangunan daya tarik wisata berupa taman bertema yaitu Taman Kerajaan Nusantara sebagai pusat konservasi dan pengembangan budaya nusantara dan jenis taman bertema lainnya sesuai dengan kebutuhan dan perkembangan.
