@@ -1,0 +1,3 @@
+# Pasal 24
+(1) Setiap tenaga kerja penyandang disabilitas mempunyai hak dan kesempatan yang setara untuk mendapatkan pelatihan kerja dalam lingkungan yang aksesibel.
+(2) Penyandang disabilitas berhak mengikuti pelatihan kerja yang diselenggarakan oleh lembaga pelatihan kerja pemerintah, swasta maupun perusahaan, hak mendapatkan sertifikat pelatihan kerja setelah mengikuti program pelatihan kerja dan tenaga kerja kerja penyandang disabilitas dapat mengikuti uji kompetensi untuk mendapatkan sertifikat kompetensi, hak memperoleh rehabilitasi vokasional setelah mendapatkan rehabilitasi medis, sosial dan/atau edukasional.
