@@ -1,0 +1,5 @@
+# Pasal 31
+(1) Perusahaan industri yang tidak memenuhi kewajibannya dan tidak membayar denda administratif dalam jangka waktu sebagaimana dimaksud dalam Pasal 30 ayat (3) dikenai sanksi administratif berupa penutupan sementara.
+(2) Dalam hal perusahaan industri telah membayar denda administratif tetapi dalam jangka waktu 30 (tiga puluh) hari sejak tanggal batas waktu pembayaran denda administratif tidak memenuhi kewajibannya dikenai sanksi administratif berupa penutupan sementara.
+(3) Sanksi administratif berupa penutupan sementara sebagaimana dimaksud pada ayat (1) dan ayat (2) bagi :
+a. perusahaan industri yang tidak memiliki IUI sebagaimana dimaksud dalam Pasal 3 ayat (1) dikenakan sampai dengan perusahaan yang bersangkutan memperoleh IUI sesuai ketentuan peraturan perundang-undangan; dan b. perusahaan industri yang tidak berlokasi di Kawasan Industri atau Kawasan Peruntukan Industri sebagaimana dimaksud dalam Pasal 5 ayat (2) dan ayat (3) atau perusahaan industri yang tidak memenuhi ketentuan sebagaimana dimaksud dalam Pasal 8 ayat (1), dikenakan untuk jangka waktu paling lama 30 (tiga puluh) hari sejak tanggal surat penutupan sementara diterima.
