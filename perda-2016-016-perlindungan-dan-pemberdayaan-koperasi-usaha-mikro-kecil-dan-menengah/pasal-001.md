@@ -1,0 +1,33 @@
+# Pasal 1
+Dalam Peraturan Daerah ini yang dimaksud dengan :
+1. Daerah adalah Kabupaten Kulon Progo.
+2. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
+3. Bupati adalah Bupati Kulon Progo.
+4. Koperasi adalah badan usaha yang beranggotakan orang-seorang atau badan hukum Koperasi dengan melandaskan kegiatannya berdasarkan prinsip Koperasi sekaligus sebagai gerakan ekonomi rakyat yang berdasar atas asas kekeluargaan.
+5. Perkoperasian adalah segala sesuatu yang menyangkut kehidupan Koperasi 6. Koperasi Primer adalah Koperasi yang didirikan oleh dan beranggotakan orang-seorang.
+7. Koperasi Sekunder adalah Koperasi yang didirikan oleh dan beranggotakan Koperasi.
+8. Akta Pendirian Koperasi adalah akta perjanjian yang dibuat oleh para pendiri dalam rangka pembentukan Koperasi, dan memuat anggaran dasar Koperasi.
+9. Anggaran Dasar Koperasi adalah aturan dasar tertulis yang memuat keterangan sebagaimana dimaksud dalam Pasal 8 Undang-Undang Nomor 25 Tahun 1992 tentang Perkoperasian.
+10. Pemeringkatan Koperasi adalah suatu alat penilaian terhadap kondisi dan/atau kinerja koperasi melalui sistem pengukuran secara objektif dan transparan terhadap koperasi.
+11. Pinjaman adalah penyediaan uang atau tagihan yang dapat dipersamakan dengan itu, berdasarkan persetujuan atau kesepakatan pinjam-meminjam antara koperasi dengan pihak lain yang mewajibkan pihak peminjam untuk melunasi hutangnya setelah jangka waktu tertentu disertai dengan pembayaran sejumlah imbalan.
+12. Simpanan adalah dana yang dipercayakan oleh anggota, calon anggota, koperasi lain dan/atau anggotanya kepada koperasi dalam bentuk tabungan, dan simpanan koperasi berjangka.
+13. Koperasi Simpan Pinjam yang selanjutnya disingkat KSP adalah koperasi yang melaksanakan kegiatan usahanya hanya usaha berupa simpan pinjam.
+14. Unit Simpan Pinjam yang selanjutnya disingkat USP adalah unit usaha koperasi yang bergerak di bidang usaha simpan pinjam sebagai bagian dari kegiatan usaha koperasi yang bersangkutan.
+15. Usaha Mikro adalah usaha produktif milik orang perorangan dan/atau badan usaha perorangan yang memiliki kekayaan bersih paling banyak Rp. 50.000.000,00 (lima puluh juta rupiah) tidak termasuk tanah dan bangunan tempat usaha atau memiliki hasil penjualan tahunan paling banyak Rp.
+300.000.000,00 (tiga ratus juta rupiah).
+16. Usaha Kecil adalah usaha ekonomi produktif yang berdiri sendiri, yang dilakukan oleh orang perorangan atau badan usaha yang bukan merupakan anak perusahaan atau bukan cabang perusahaan yang dimiliki, dikuasai, atau, menjadi bagian baik langsung maupun tidak langsung dari usaha menengah atau usaha besar yang memiliki kekayaan bersih lebih dari Rp. 50.000.000,00 (lima puluh juta rupiah) sampai dengan paling banyak Rp.
+500.000.000,00 (1ima ratus juta rupiah) tidak termasuk tanah dan bangunan tempat usaha atau memiliki hasil penjualan tahunan lebih dari Rp. 300.000.000,00 (tiga ratus juta rupiah) sampai dengan paling banyak Rp.
+2.500.000.000,00 (dua milyar lima ratus juta rupiah.
+17. Usaha Menengah adalah usaha ekonomi produktif yang berdiri sendiri yang dilakukan oleh perseorangan atau badan usaha yang bukan merupakan anak perusahaan atau cabang perusahaan yang dimiliki, dikuasai, atau menjadi bagian baik langsung maupun tidak langsung dengan usaha kecil atau usaha besar dengan jumlah kekayaan bersih atau hasil penjualan memiliki kekayaan bersih lebih dari Rp. 500.000.000,00 (lima ratus juta rupiah) sampai dengan paling banyak Rp.
+10.000.000.000,00 (sepuluh milyar rupiah) tidak termasuk tanah dan bangunan tempat usaha atau memiliki hasil penjualan tahunan lebih dari Rp. 2.500.000.000,00 (dua milyar lima ratus juta rupiah) sampai dengan paling banyak Rp. 50.000. 000. 000,00 (lima puluh milyar rupiah).
+18. Usaha Besar adalah usaha ekonomi produktif yang dilakukan oleh badan usaha dengan jumlah kekayaan bersih atau hasil penjualan tahunan lebih besar dari usaha menengah, yang meliputi usaha nasional milik negara atau swasta, usaha patungan, dan usaha asing yang melakukan kegiatan ekonomi di Indonesia.
+19. Perlindungan adalah upaya yang dilakukan pemerintah dan/atau Pemerintah Daerah guna menjaga keberlangsungan dan perkembangan koperasi dan usaha mikro, kecil, dan menengah.
+20. Pemberdayaan adalah upaya yang dilakukan Pemerintah Daerah, dunia usaha dan masyarakat secara sinergis dalam bentuk penumbuhan iklim dan pengembangan koperasi, usaha mikro, kecil dan menengah, sehingga mampu tumbuh dan berkembang menjadi usaha yang tangguh dan mandiri.
+21. Pengembangan adalah upaya yang dilakukan oleh Pemerintah Daerah, dunia usaha dan masyarakat untuk memberdayakan usaha mikro, kecil, dan menengah melalui pemberian fasilitas, bimbingan pendampingan dan bantuan perkuatan untuk menumbuhkan dan meningkatkan kemampuan dan daya saing usaha mikro, kecil dan menengah.
+22. Izin Usaha adalah bukti tertulis yang diberikan oleh pejabat yang berwenang berdasarkan ketentuan peraturan perundang-undangan sebagai bukti legalitas yang menyatakan sah bahwa usaha mikro, usaha kecil, dan usaha menengah telah memenuhi persyaratan dan diperbolehkan untuk menjalankan suatu kegiatan usaha tertentu.
+23. Surat Izin Usaha Perdagangan yang selanjutnya disingkat SIUP adalah surat izin untuk dapat melaksanakan kegiatan usaha perdagangan.
+24. Iklim usaha adalah kondisi yang diupayakan Pemerintah dan Pemerintah Daerah untuk memberdayakan usaha mikro, kecil dan menengah secara sinergis melalui penetapan berbagai peraturan perundang-undangan dan kebijakan di berbagai aspek kehidupan ekonomi agar usaha mikro, kecil dan menengah memperoleh pemihakan, kepastian, kesempatan perlindungan, dan dukungan usaha yang seluas-luasnya.
+25. Dunia Usaha adalah usaha mikro, usaha kecil, usaha menengah dan usaha besar yang melakukan kegiatan ekonomi di Indonesia dan berdomisili di Indonesia.
+26. Pembiayaan adalah penyediaan dana oleh Pemerintah, Pemerintah Daerah, dunia usaha dan masyarakat melalui bank, koperasi dan lembaga keuangan bukan bank, untuk mengembangkan dan memperkuat permodalan usaha mikro, kecil dan menengah.
+27. Penjaminan adalah pemberian jaminan pinjaman usaha mikro, kecil dan menengah oleh lembaga penjamin kredit sebagai dukungan untuk mempercayai kesempatan memperoleh pinjaman dalam rangka memperkuat permodalannya.
+28. Kemitraan adalah kerja sama dalam keterkaitan usaha langsung atau tidak langsung atas dasar prinsip saling memerlukan, mempercayai, memperkuat, dan menguntungkan yang melibatkan pelaku usaha mikro, kecil, dan menengah dengan usaha besar.
