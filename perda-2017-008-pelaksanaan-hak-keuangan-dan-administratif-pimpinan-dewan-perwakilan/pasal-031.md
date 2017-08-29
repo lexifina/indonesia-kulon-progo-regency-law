@@ -1,0 +1,6 @@
+# Pasal 31
+Pada saat Peraturan Daerah ini mulai berlaku :
+a. Pasal 14 sampai dengan Pasal 33 Peraturan Daerah Kabupaten Kulon Progo Nomor 1 Tahun 2005 tentang Kedudukan Protokoler dan Keuangan Pimpinan Dan Anggota Dewan Perwakilan Rakyat Daerah (Lembaran Daerah Kabupaten Kulon Progo Tahun 2005 Nomor 1 Seri E);
+b. Peraturan Daerah Kabupaten Kulon Progo Nomor 1 Tahun 2006 tentang Perubahan Atas Peraturan Daerah Kabupaten Kulon Progo Nomor 1 Tahun 2005 tentang Kedudukan Protokoler dan Keuangan Pimpinan dan Anggota Dewan Perwakilan Rakyat Daerah (Lembaran Daerah Kabupaten Kulon Progo Tahun 2006 Nomor 1 Seri E);
+c. Peraturan Daerah Kabupaten Kulon Progo Nomor 6 Tahun 2006 tentang Perubahan Kedua Atas Peraturan Daerah Kabupaten Kulon Progo Nomor 1 Tahun 2005 tentang Kedudukan Protokoler dan Keuangan Pimpinan dan Anggota Dewan Perwakilan Rakyat Daerah (Lembaran Daerah Kabupaten Kulon Progo Tahun 2006 Nomor 2 Seri E); dan d. Peraturan Daerah Kabupaten Kulon Progo Nomor 12 Tahun 2007 tentang Perubahan Ketiga Atas Peraturan Daerah Kabupaten Kulon Progo Nomor 1 Tahun 2005 tentang Kedudukan Protokoler dan Keuangan Pimpinan dan Anggota Dewan Perwakilan Rakyat Daerah (Lembaran Daerah Kabupaten Kulon Progo Tahun 2007 Nomor 6 Seri E) ;
+dicabut dan dinyatakan tidak berlaku.
