@@ -1,0 +1,3 @@
+# Pasal 18
+(1) Penetapan standar kebutuhan sebagaimana dimaksud dalam Pasal 17 ayat (2) huruf b berpedoman pada ketentuan peraturan perundang-undangan.
+(2) Penetapan standar barang dan standar kebutuhan sebagaimana dimaksud dalam Pasal 17 ayat (2) huruf a dan huruf b dilakukan setelah berkoordinasi dengan Perangkat Daerah terkait.

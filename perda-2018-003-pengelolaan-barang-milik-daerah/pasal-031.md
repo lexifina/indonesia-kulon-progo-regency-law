@@ -1,0 +1,7 @@
+# Pasal 31
+(1) Penetapan status penggunaan BMD berupa tanah dan/atau bangunan dilakukan dengan ketentuan bahwa tanah dan/atau bangunan tersebut diperlukan untuk kepentingan penyelenggaraan tugas dan fungsi Pengguna Barang dan/atau Kuasa Pengguna Barang yang bersangkutan.
+(2) Pengguna Barang wajib menyerahkan BMD berupa tanah dan/atau bangunan sebagaimana dimaksud pada ayat (1) yang tidak digunakan dalam penyelenggaraan tugas dan fungsi Pengguna Barang kepada Bupati melalui Pengelola Barang.
+(3) BMD yang telah ditetapkan status penggunaannya pada Pengguna Barang dapat digunakan sementara oleh Pengguna Barang lainnya dalam jangka waktu tertentu tanpa harus mengubah status penggunaan BMD tersebut setelah terlebih dahulu mendapatkan persetujuan Bupati.
+(4) Tanah dan/atau bangunan yang tidak digunakan dalam penyelenggaraan tugas dan fungsi Pengguna Barang namun telah direncanakan untuk digunakan atau dimanfaatkan dalam jangka waktu tertentu yang ditetapkan oleh Bupati, dikecualikan dari ketentuan sebagaimana dimaksud pada ayat (2).
+(5) Bupati mencabut status penggunaan atas BMD berupa tanah dan/atau bangunan yang tidak digunakan dalam penyelenggaraan tugas dan fungsi Pengguna Barang sebagaimana dimaksud pada ayat (2).
+(6) Dalam hal BMD berupa tanah dan/atau bangunan sebagaimana dimaksud pada ayat (2) tidak diserahkan kepada Bupati, Pengguna Barang dikenakan sanksi berupa pembekuan dana pemeliharaan atas BMD dimaksud.

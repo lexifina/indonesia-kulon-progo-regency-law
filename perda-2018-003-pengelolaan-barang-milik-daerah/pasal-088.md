@@ -1,0 +1,2 @@
+# Pasal 88
+Bangunan yang harus dihapuskan karena anggaran untuk bangunan pengganti sudah disediakan dalam dokumen penganggaran sebagaimana dimaksud dalam Pasal 84 ayat (2) huruf b dimaksudkan bahwa yang dihapuskan yaitu bangunan yang berdiri di atas tanah tersebut dirobohkan untuk selanjutnya didirikan bangunan baru diatas tanah yang sama (rekonstruksi) sesuai alokasi anggaran yang telah disediakan dalam dokumen penganggaran.
