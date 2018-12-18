@@ -1,0 +1,2 @@
+# Pasal 5
+Pada saat Peraturan Daerah ini mulai berlaku, ketentuan Pasal 7 ayat (4) huruf d dan huruf e serta ayat (5) Peraturan Daerah Kabupaten Kulon Progo Nomor 1 Tahun 2016 tentang Perusahaan Daerah Bank Perkreditan Rakyat Bank Pasar Kulon Progo (Lembaran Daerah Kabupaten Kulon Progo Tahun 2016 Nomor 1, Tambahan Lembaran Daerah Kabupaten Kulon Progo Nomor 37), dicabut dan dinyatakan tidak berlaku.
