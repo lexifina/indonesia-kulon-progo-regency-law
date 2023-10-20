@@ -1,0 +1,26 @@
+# Pasal 1
+Dalam Peraturan Daerah ini yang dimaksud dengan:
+1. Penataan dan Pengendalian Infrastruktur Pasif Telekomunikasi adalah kegiatan yang dilakukan oleh Pemerintah Daerah untuk menata, mengarahkan, dan menempatkan Infrastruktur Pasif sesuai dengan ruang yang tersedia.
+2. Infrastruktur Pasif Telekomunikasi yang selanjutnya disebut Infrastruktur Pasif adalah bangunan prasarana dan sarana bangunan gedung atau struktur untuk kepentingan bersama yang didirikan di atas dan/atau di bawah tanah atau bangunan yang merupakan satu kesatuan konstruksi dengan bangunan gedung atau struktur tertentu yang dipergunakan untuk kepentingan bersama sebagai sarana penunjang menempatkan perangkat telekomunikasi.
+3. Menara Telekomunikasi yang selanjutnya disebut Menara adalah bangunan untuk kepentingan umum yang didirikan di atas tanah, atau bangunan yang merupakan satu kesatuan konstruksi dengan bangunan gedung yang dipergunakan untuk kepentingan umum yang struktur fisiknya dapat berupa rangka baja yang diikat oleh berbagai simpul atau berupa bentuk tunggal tanpa simpul, di mana fungsi, desain dan konstruksinya disesuaikan sebagai sarana penunjang menempatkan perangkat telekomunikasi.
+4. Menara Bersama adalah menara yang digunakan secara bersama oleh beberapa penyelenggara telekomunikasi untuk menempatkan dan mengoperasikan peralatan telekomunikasi berbasis radio (Base Transceiver Station/BTS).
+5. Tiang Microcell adalah bangunan Menara beserta kelengkapannya untuk menempatkan perangkat telekomunikasi yang memiliki jangkauan pelayanan lebih sempit yang digunakan untuk mencakup area yang tidak terjangkau oleh Menara Telekomunikasi atau bertujuan meningkatkan kapasitas dan kualitas pada area yang padat trafiknya.
+6. Fiber Optik adalah saluran transmisi atau sejenis kabel yang terbuat dari kaca atau plastik yang sangat halus dan lebih kecil dari sehelai rambut, dan dapat digunakan untuk mentransmisikan sinyal cahaya dari suatu tempat ke tempat lain dengan kecepatan tinggi dan kapasitas yang lebih besar.
+7. Jaringan Fiber Optik adalah jaringan komunikasi yang menggunakan kabel serat optik yang penempatannya dapat dilakukan di dalam tanah atau di atas permukaan tanah.
+8. Saluran Bawah Tanah (Duct) adalah bangunan atau struktur untuk kepentingan umum yang didirikan di bawah tanah yang digunakan untuk menempatkan dan melindungi kabel jaringan telekomunikasi dan sarana prasarana utilitas yang berada di bawah tanah, termasuk akses ke gedung/lokasi pelanggan.
+9. Telekomunikasi adalah setiap pemancaran, pengiriman dan/atau penerimaan dari setiap informasi dalam bentuk tanda-tanda, isyarat, tulisan, gambar, suara, dan bunyi melalui sistem kawat, optik, radio atau sistem elektromagnetik lainnya.
+10. Penyelenggaraan Telekomunikasi adalah kegiatan penyediaan dan pelayanan telekomunikasi sehingga memungkinkan terselenggaranya telekomunikasi.
+11. Penyelenggara Telekomunikasi adalah perseroan, koperasi, Badan Usaha Milik Daerah (BUMD), Badan Usaha Milik Negara (BUMN), badan usaha swasta, instansi pemerintah, dan instansi pertahanan keamanan negara.
+12. Penyedia Infrastruktur Pasif adalah koperasi, Badan Usaha Milik Daerah, Badan Usaha Milik Negara atau badan usaha swasta yang memiliki dan mengelola Infrastruktur Pasif untuk digunakan bersama oleh penyelenggara telekomunikasi.
+13. Pengelola Infrastruktur Pasif Telekomunikasi adalah pihak yang mengelola infrastruktur pasif Telekomunikasi untuk digunakan bersama oleh Penyelenggara Telekomunikasi.
+14. Penyedia Menara adalah perseorangan, koperasi, badan usaha milik daerah badan usaha milik negara atau badan usaha swasta yang memiliki dan mengelola menara telekomunikasi untuk digunakan bersama oleh penyelenggara telekomunikasi.
+15. Kontraktor Menara adalah penyedia jasa orang perseorangan atau badan usaha yang dinyatakan ahli yang profesional di bidang jasa konstruksi pembangunan menara yang mampu menyelenggarakan kegiatannya untuk mewujudkan suatu hasil perencanaan menara untuk pihak lain.
+16. Jaringan Utama adalah bagian dari jaringan infrastruktur telekomunikasi yang menghubungkan berbagai elemen jaringan telekomunikasi yang berfungsi sebagai Central Trunk, Mobile Switching Center (MSC) dan Base Station Controller (BSC).
+17. Persetujuan Bangunan Gedung yang selanjutnya disebut PBG adalah perizinan yang diberikan oleh Pemerintah Daerah kepada pemilik Menara Telekomunikasi untuk membangun dan/atau mengubah Menara Telekomunikasi sesuai ketentuan/peraturan perundang-undangan.
+18. Zona adalah kawasan atau area yang memiliki fungsi dan karakteristik spesifik.
+19. Badan usaha adalah orang perseorangan atau badan hukum yang didirikan dengan hukum Indonesia, mempunyai tempat kedudukan di Indonesia, serta beroperasi di Indonesia.
+20. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
+21. Perangkat Daerah adalah unsur pembantu kepala daerah dan DPRD dalam penyelenggaraan urusan pemerintahan yang menjadi kewenangan daerah.
+22. Bupati adalah Bupati Kulon Progo.
+23. Dinas adalah Dinas adalah Lembaga Perangkat Daerah yang mempunyai tugas dan tanggung jawab di bidang komunikasi, dan informatika.
+24. Daerah adalah Kabupaten Kulon Progo.
