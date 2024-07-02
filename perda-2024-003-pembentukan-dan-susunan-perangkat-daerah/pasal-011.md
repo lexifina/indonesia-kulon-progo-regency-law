@@ -1,0 +1,5 @@
+# Pasal 11
+Pada saat penataan kelembagaan selesai dilaksanakan berdasarkan Peraturan Daerah ini, maka:
+a. Peraturan Daerah Kabupaten Kulon Progo Nomor 11 Tahun 2010 tentang Pembentukan Badan Penanggulangan Bencana Daerah (Lembaran Daerah Kabupaten Kulon Progo Tahun 2010 Nomor 2 Seri D);
+b. Peraturan Daerah Kabupaten Kulon Progo Nomor 14 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah (Lembaran Daerah Kabupaten Kulon Progo Tahun 2016 Nomor 14);
+c. Peraturan Daerah Kabupaten Kulon Progo Nomor 3 Tahun 2019 tentang Perubahan Atas Peraturan Daerah Kabupaten Kulon Progo Nomor 14 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah (Lembaran Daerah Kabupaten Kulon Progo Tahun 2019 Nomor 3); dan d. Peraturan Daerah Kabupaten Kulon Progo Nomor 12 Tahun 2021 tentang Perubahan Kedua Atas Peraturan Daerah Kabupaten Kulon Progo Nomor 14 Tahun 2016 tentang Pembentukan dan Susunan Perangkat Daerah (Lembaran Daerah Kabupaten Kulon Progo Tahun 2021 Nomor 12), dicabut dan dinyatakan tidak berlaku.
