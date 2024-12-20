@@ -1,0 +1,2 @@
+# Pasal 40
+Pada saat Peraturan Daerah ini mulai berlaku, Peraturan Daerah Kabupaten Kulon Progo Nomor 9 Tahun 2020 tentang Perusahaan Umum Daerah Bank Perkreditan Rakyat Bank Kulon Progo (Lembaran Daerah Kabupaten Kulon Progo Tahun 2020 Nomor 9, Tambahan Lembaran Daerah Kabupaten Kulon Progo Nomor 88), dicabut dan dinyatakan tidak berlaku pada saat telah disahkannya status badan hukum PT BPR Bank Kulon Progo (Perseroda) sesuai dengan ketentuan peraturan perundang-undangan mengenai perseroan terbatas.

@@ -1,0 +1,2 @@
+# Pasal 2
+Dengan Peraturan Daerah ini, Perusahaan Umum Daerah Bank Perkreditan Rakyat Bank Kulon Progo yang dibentuk pertama kali dengan nama PD. Bank Pasar Kabupaten Kulon Progo dan diubah terakhir namanya dengan Peraturan Daerah Kabupaten Kulon Progo Nomor 9 Tahun 2020 tentang Perusahaan Umum Daerah Bank Perkreditan Rakyat Bank Kulon Progo, diubah bentuk badan hukum dan namanya menjadi PT BPR Bank Kulon Progo (Perseroda).
