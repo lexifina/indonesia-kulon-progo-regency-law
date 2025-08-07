@@ -1,0 +1,6 @@
+# Pasal 39
+(1) Dalam pergantian antarwaktu keanggotaan Bamuskal, apabila tersedia calon yang berhak dipilih nomor urut berikutnya, maka paling lama 7 (tujuh) hari kerja sejak anggota Bamuskal ditetapkan pemberhentiannya, Lurah mengusulkan calon anggota Bamuskal pengganti antarwaktu kepada Bupati melalui Panewu.
+(2) Dalam pergantian antarwaktu keanggotaan Bamuskal, apabila tidak tersedia calon yang berhak dipilih nomor urut berikutnya, maka Lurah mengusulkan calon anggota Bamuskal pengganti antarwaktu kepada Bupati melalui Panewu paling lama 7 (tujuh) hari kerja sejak diterimanya hasil pelaksanaan pengisian keanggotaan Bamuskal pengganti antarwaktu.
+(3) Setelah menerima usulan Lurah sebagaimana dimaksud pada ayat (1) atau ayat (2), Panewu melakukan pencermatan dan menindaklanjuti dengan memberikan rekomendasi kepada Bupati paling lama 7 (tujuh) hari kerja sejak diterimanya permohonan dari Lurah.
+(4) Peresmian anggota Bamuskal pengganti antarwaktu ditetapkan dengan Keputusan Bupati paling lama 30 (tiga puluh) hari kerja sejak diterimanya permohonan dari Lurah.
+(5) Pengucapan sumpah atau janji anggota Bamuskal pengganti antarwaktu paling lama 30 (tiga puluh) hari kerja sejak diterbitkannya Keputusan Bupati mengenai peresmian anggota Bamuskal pengganti antarwaktu.
