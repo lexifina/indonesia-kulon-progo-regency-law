@@ -1,0 +1,25 @@
+# Pasal 1
+Dalam Peraturan Daerah ini yang dimaksud dengan:
+1. Ketertiban Umum dan Ketenteraman Masyarakat yang selanjutnya disebut Tibumtranmas adalah keadaan yang memungkinkan Pemerintah Pusat, Pemerintah Daerah dan masyarakat dapat melakukan kegiatannya dalam situasi dan kondisi yang tenteram, tertib, dan teratur.
+2. Penyelenggaraan Ketertiban Umum dan Ketenteraman Masyarakat yang selanjutnya disebut Penyelenggaraan Tibumtranmas adalah upaya dan kegiatan yang diselenggarakan Satuan Polisi Pamong Praja yang memungkinkan Pemerintah Pusat, Pemerintah Daerah dan masyarakat dapat melakukan kegiatannya dalam situasi dan kondisi yang tenteram, tertib, dan teratur sesuai dengan kewenangannya untuk penegakan peraturan daerah dan peraturan kepala daerah.
+3. Pelindungan Masyarakat yang selanjutnya disebut Linmas adalah segenap upaya dan kegiatan yang dilakukan dalam rangka melindungi masyarakat dari gangguan yang diakibatkan oleh bencana serta upaya untuk melaksanakan tugas membantu penanganan bencana guna mengurangi dan memperkecil akibat bencana, membantu memelihara keamanan, ketenteraman dan ketertiban masyarakat, membantu kegiatan sosial kemasyarakatan, membantu memelihara ketenteraman dan ketertiban pada saat pemilihan lurah, pemilihan bupati, dan pemilihan umum, serta membantu upaya pertahanan negara.
+4. Penyelenggaraan Pelindungan Masyarakat yang selanjutnya disebut Penyelenggaraan Linmas adalah pemberdayaan masyarakat yang dilaksanakan oleh bupati dan lurah.
+5. Gangguan Ketertiban Umum dan Ketenteraman Masyarakat yang selanjutnya disebut Gangguan Tibumtranmas adalah semua kondisi yang disebabkan oleh perilaku tidak tertib yang berpotensi dan/atau menyebabkan terganggunya kepentingan umum di masyarakat.
+6. Tertib Fasilitas Umum adalah kepatuhan seluruh masyarakat dalam menggunakan fasilitas umum sesuai aturan dan norma yang berlaku, serta menjaga kebersihan dan kerapihannya untuk kenyamanan bersama dan keberlangsungan fasilitas dimaksud.
+7. Tertib Bangunan adalah kegiatan membangun, mengubah, memperluas, mengurangi dan merawat bangunan gedung yang memiliki izin, sesuai dengan ketentuan peraturan perundang-undangan.
+8. Tertib Ruang Milik Jalan adalah pemanfaatan ruang milik jalan sesuai dengan fungsinya dan/atau telah memperoleh izin, sesuai dengan ketentuan peraturan perundang-undangan.
+9. Tertib Lingkungan adalah kondisi lingkungan yang bersih, sehat, indah dan nyaman, sesuai dengan ketentuan peraturan perundang-undangan.
+10. Tertib Sungai, Drainase, dan Sumber Air adalah kondisi sungai, drainase, saluran irigasi yang menjadi kewenangan Daerah dan sumber air yang bersih, aliran air tanpa hambatan, dan sumber air yang lestari.
+11. Tertib Usaha adalah semua kegiatan usaha telah memiliki izin dan memenuhi kewajiban usaha serta tidak menjual/menyediakan barang dan/atau jasa yang dilarang, sesuai dengan ketentuan peraturan perundang-undangan.
+12. Tertib Sosial adalah tatanan kehidupan masyarakat yang harmonis dan bebas dari penyakit masyarakat.
+13. Satuan Polisi Pamong Praja yang selanjutnya disebut Satpol PP adalah perangkat daerah yang dibentuk untuk menegakkan Peraturan Daerah dan Peraturan Bupati, menyelenggarakan ketertiban umum dan ketenteraman serta menyelenggarakan pelindungan masyarakat.
+14. Polisi Pamong Praja yang selanjutnya disebut Pol PP adalah anggota Satpol PP sebagai aparat Pemerintah Daerah yang diduduki oleh pegawai negeri sipil dan diberi tugas, tanggung jawab, dan wewenang sesuai dengan ketentuan peraturan perundang-undangan dalam penegakan peraturan daerah dan peraturan bupati, penyelenggaraan ketertiban umum dan ketenteraman serta pelindungan masyarakat.
+15. Satuan Tugas Linmas yang selanjutnya disebut Satgas Linmas adalah satuan tugas yang dibentuk dengan beranggotakan aparatur Linmas dan Satlinmas yang dipilih secara selektif dan ditetapkan oleh keputusan gubernur dan bupati yang berada di Satpol PP, kabupaten, serta kapanewon dengan tugas membantu penyelenggaraan linmas di daerah.
+16. Satuan Pelindungan Masyarakat yang selanjutnya disebut Satlinmas adalah organisasi yang beranggotakan unsur masyarakat yang berada di kelurahan dan/atau kalurahan dibentuk oleh lurah untuk melaksanakan Linmas.
+17. Orang adalah orang perseorangan, organisasi kemasyarakatan dan/atau badan, baik yang berbadan hukum maupun yang tidak berbadan hukum.
+18. Fasilitas Umum adalah sarana dan prasarana yang disediakan oleh Pemerintah Daerah untuk penyelenggaraan pemerintahan, pembangunan, dan pelayanan masyarakat.
+19. Penyidik Pegawai Negeri Sipil yang selanjutnya disingkat PPNS adalah pegawai negeri sipil yang diberi tugas melakukan penyidikan terhadap pelanggaran atas ketentuan Peraturan Daerah sesuai dengan ketentuan peraturan perundang-undangan.
+20. Pemerintah Daerah adalah kepala daerah sebagai unsur penyelenggara Pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.
+21. Perangkat Daerah adalah unsur pembantu kepala daerah dan Dewan Perwakilan Rakyat Daerah dalam penyelenggaraan urusan pemerintahan yang menjadi kewenangan daerah.
+22. Bupati adalah Bupati Kulon Progo.
+23. Daerah adalah Kabupaten Kulon Progo.
