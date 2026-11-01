@@ -1,0 +1,30 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2002-001-pola-dasar-pembangunan-daerah-tahun-2001-2005",
+    "perda-2002-002-program-pembangunan-daerah-tahun-2001-2005",
+    "perda-2002-003-rencana-stratejik-daerah-tahun-2001-2005",
+    "perda-2002-006-izin-usaha-pertambangan-bahan-galian-golongan-c",
+    "perda-2002-008-tuntutan-perbendaharaan-dan-tuntutan-ganti-rugi-keuangan-dan-barang",
+    "perda-2002-009-pajak-parkir",
+    "perda-2002-011-penyelenggaraan-pendaftaran-penduduk-dan-pencatatan-sipil",
+    "perda-2003-006-perusahaan-umum-daerah-aneka-usaha-kulon-progo",
+    "perda-2003-014-pajak-hotel",
+    "perda-2004-009-pembentukan-organisasi-dan-tata-kerja-dinas-daerah",
+    "perda-2004-010",
+    "perda-2004-011-pembentukan-organisasi-dan-tata-kerja-unit-pelaksana-teknis-dinas",
+    "perda-2004-012-pembentukan-organisasi-dan-tata-kerja-kecamatan",
+    "perda-2005-001-kedudukan-protokoler-dan-keuangan-pimpinan-dan-anggota-dewan",
+    "perda-2005-003-pajak-penerangan-jalan",
+    "perda-2005-004-pajak-pengambilan-bahan-galian-golongan-c",
+    "perda-2005-006-penangguhan-mulai-berlakunya-peraturan-daerah-kabupaten-kulon-progo",
+    "perda-2005-010-penangguhan-kedua-mulai-berlakunya-peraturan-daerah-kabupaten-kulon",
+    "perda-2006-001-perubahan-atas-peraturan-daerah-kabupaten-kulon-progo-nomor-1-tahun",
+    "perda-2006-006-perubahan-kedua-atas-peraturan-daerah-kabupaten-kulon-progo-nomor-1"
+   ],
+   "sha256": "feb08a06453c5d890f7b2545f414309455dfc48871409ad82977c697d3ed0c9f"
+  }
+ },
+ "schema": 1
+}
