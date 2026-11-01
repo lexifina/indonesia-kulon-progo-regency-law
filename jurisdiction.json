@@ -1,0 +1,9 @@
+{
+  "path": "id-yo-kulon-progo",
+  "code": "ID-YO-KULON-PROGO",
+  "name": "Kulon Progo Regency (Indonesia)",
+  "level": "regency",
+  "parent": "id-yo",
+  "repo": "https://github.com/lexifina/indonesia-kulon-progo-regency-law",
+  "build": "built: Peraturan Daerah (Perda) of Kabupaten Kulon Progo as enacted, Indonesian text, from JDIH Kabupaten Kulon Progo (Bagian Hukum Sekretariat Daerah Kabupaten Kulon Progo)"
+}

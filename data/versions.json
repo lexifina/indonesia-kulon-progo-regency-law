@@ -1,0 +1,285 @@
+{
+ "country": "ID-YO-KULON-PROGO",
+ "acts": [
+  {
+   "slug": "perda-2002-001-pola-dasar-pembangunan-daerah-tahun-2001-2005",
+   "short": "Perda Kulon Progo Regency 1/2002",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 1 TAHUN 2002 TENTANG POLA DASAR PEMBANGUNAN DAERAH TAHUN 2001 - 2005",
+   "url": "https://jdih.kulonprogokab.go.id/detail/463",
+   "versions": [
+    {
+     "from": "2002-02-23",
+     "units": 11,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/463/PD-1-02.pdf",
+     "sha256": "87b6d9ec0efcd43cedc81cd0d1d3da7e4e1e43800512ae046c4a8465dd342a0e"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2002-002-program-pembangunan-daerah-tahun-2001-2005",
+   "short": "Perda Kulon Progo Regency 2/2002",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 2 TAHUN 2002 TENTANG PROGRAM PEMBANGUNAN DAERAH TAHUN 2001-2005",
+   "url": "https://jdih.kulonprogokab.go.id/detail/464",
+   "versions": [
+    {
+     "from": "2002-02-23",
+     "units": 8,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/464/PD-2-02.pdf",
+     "sha256": "3619bc9f37b72531b514f338ea34c62b0fb4d568e9ac86514a00a1c630e9798f"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2002-003-rencana-stratejik-daerah-tahun-2001-2005",
+   "short": "Perda Kulon Progo Regency 3/2002",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 3 TAHUN 2002 TENTANG RENCANA STRATEJIK DAERAH TAHUN 2001 - 2005",
+   "url": "https://jdih.kulonprogokab.go.id/detail/465",
+   "versions": [
+    {
+     "from": "2002-02-23",
+     "units": 8,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/465/PD-3-02.pdf",
+     "sha256": "df5e9494f95385c8cd1c72bbe715a636d6994581ff8db53b35a111b3092e49fc"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2002-006-izin-usaha-pertambangan-bahan-galian-golongan-c",
+   "short": "Perda Kulon Progo Regency 6/2002",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 6 TAHUN 2002 TENTANG IZIN USAHA PERTAMBANGAN BAHAN GALIAN GOLONGAN C",
+   "url": "https://jdih.kulonprogokab.go.id/detail/468",
+   "versions": [
+    {
+     "from": "2002-05-27",
+     "units": 29,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/468/PD-6-02.pdf",
+     "sha256": "b687c7d2e6e29ae4fe6f96e8a2668f478ab66ed153665bf01e8af98d6af22568"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2002-008-tuntutan-perbendaharaan-dan-tuntutan-ganti-rugi-keuangan-dan-barang",
+   "short": "Perda Kulon Progo Regency 8/2002",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 8 TAHUN 2002 TENTANG TUNTUTAN PERBENDAHARAAN DAN TUNTUTAN GANTI RUGI KEUANGAN DAN BARANG DAERAH",
+   "url": "https://jdih.kulonprogokab.go.id/detail/470",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 34,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/470/PD-8-02.pdf",
+     "sha256": "1e58c24d01dd81cc7ffdb97c54f97dc406b77f95597b24cc5550e50db7bda736"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2002-009-pajak-parkir",
+   "short": "Perda Kulon Progo Regency 9/2002",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 9 TAHUN 2002 TENTANG PAJAK PARKIR",
+   "url": "https://jdih.kulonprogokab.go.id/detail/471",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 28,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/471/PD-9-02.pdf",
+     "sha256": "bc775df8d7c447b7a81d9c76221806144ee5c1eaf0056c80632622f3ce4e42f2"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2002-011-penyelenggaraan-pendaftaran-penduduk-dan-pencatatan-sipil",
+   "short": "Perda Kulon Progo Regency 11/2002",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 11 TAHUN 2002 TENTANG PENYELENGGARAAN PENDAFTARAN PENDUDUK DAN PENCATATAN SIPIL",
+   "url": "https://jdih.kulonprogokab.go.id/detail/724",
+   "versions": [
+    {
+     "from": "2002-10-12",
+     "units": 47,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/724/PD-11-02.pdf",
+     "sha256": "88daa564bc5315a6b0b127bdbc84005576508eff1ca0c4791ee81979a322ee7a"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2003-006-perusahaan-umum-daerah-aneka-usaha-kulon-progo",
+   "short": "Perda Kulon Progo Regency 6/2003",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 6 TAHUN 2003 TENTANG PERUSAHAAN UMUM DAERAH “ANEKA USAHA KULON PROGO”",
+   "url": "https://jdih.kulonprogokab.go.id/detail/449",
+   "versions": [
+    {
+     "from": "2003-04-12",
+     "units": 41,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/449/PD-6-03.pdf",
+     "sha256": "0d5c1d6723028fb8303557fdd6b4bce7383c305fd53a60f822477982156e2ff1"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2003-014-pajak-hotel",
+   "short": "Perda Kulon Progo Regency 14/2003",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 14 TAHUN 2003 TENTANG PAJAK HOTEL",
+   "url": "https://jdih.kulonprogokab.go.id/detail/457",
+   "versions": [
+    {
+     "from": "2003-09-04",
+     "units": 28,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/457/PD-14-03.pdf",
+     "sha256": "bde728c418c08b912c186e5afb877c36edb7a6d4187e5c7cebd38188136d4490"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2004-010",
+   "short": "Perda Kulon Progo Regency 10/2004",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 10 TAHUN 2004 T E N T A N G PEMBENTUKAN ORGANISASI DAN TATA KERJA LEMBAGA TEKNIS DAERAH DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI KULON PROGO, Menimbang : a. bahwa dalam rangka meningkatkan kinerja Pemerintah Daerah, diperlukan Organisasi Perangkat Daerah yang proporsional, efisien dan efektif dengan tetap mempertimbangkan kewenangan, karakteristik, po",
+   "url": "https://jdih.kulonprogokab.go.id/detail/441",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 65,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/441/PD-10-04.pdf",
+     "sha256": "befe05f8f93c75f270e46c8ded9476e1d1cbccb828efcfcf98c38b0be239485a"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2004-011-pembentukan-organisasi-dan-tata-kerja-unit-pelaksana-teknis-dinas",
+   "short": "Perda Kulon Progo Regency 11/2004",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 11 TAHUN 2004 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA UNIT PELAKSANA TEKNIS DINAS DAERAH",
+   "url": "https://jdih.kulonprogokab.go.id/detail/442",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 55,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/442/PD-11-04.pdf",
+     "sha256": "25aac8ef2db5531082c7a3381a4e1be3239a296b82bc3abd6911e8d9675539e2"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2004-012-pembentukan-organisasi-dan-tata-kerja-kecamatan",
+   "short": "Perda Kulon Progo Regency 12/2004",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 12 TAHUN 2004 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA KECAMATAN",
+   "url": "https://jdih.kulonprogokab.go.id/detail/443",
+   "versions": [
+    {
+     "from": "2004-08-09",
+     "units": 15,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/443/PD-12-04.pdf",
+     "sha256": "5ff48b10f58ae8a71c9a43736854feb7cdc2deaa999cc66be3f315d9669ebd25"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2005-001-kedudukan-protokoler-dan-keuangan-pimpinan-dan-anggota-dewan",
+   "short": "Perda Kulon Progo Regency 1/2005",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 1 TAHUN 2005 TENTANG KEDUDUKAN PROTOKOLER DAN KEUANGAN PIMPINAN DAN ANGGOTA DEWAN PERWAKILAN RAKYAT DAERAH",
+   "url": "https://jdih.kulonprogokab.go.id/detail/422",
+   "versions": [
+    {
+     "from": "2005-02-14",
+     "units": 38,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/422/PD-1-2005.pdf",
+     "sha256": "1b1ff5a20c406bc4cb3c770574355615f3ba80a638cfc12cc01dd83a73da26fa"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2005-003-pajak-penerangan-jalan",
+   "short": "Perda Kulon Progo Regency 3/2005",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 3 TAHUN 2005 TENTANG PAJAK PENERANGAN JALAN",
+   "url": "https://jdih.kulonprogokab.go.id/detail/424",
+   "versions": [
+    {
+     "from": "2005-06-18",
+     "units": 38,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/424/PD-3-2005.pdf",
+     "sha256": "e79c301ea71b60a061ba1c7b35e09f1e00ecc4c4fd8dc2c222c1685a44bc4d98"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2005-004-pajak-pengambilan-bahan-galian-golongan-c",
+   "short": "Perda Kulon Progo Regency 4/2005",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 4 TAHUN 2005 TENTANG PAJAK PENGAMBILAN BAHAN GALIAN GOLONGAN C",
+   "url": "https://jdih.kulonprogokab.go.id/detail/425",
+   "versions": [
+    {
+     "from": "2005-06-18",
+     "units": 38,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/425/PD-4-2005.pdf",
+     "sha256": "fc3b479e73c0cd7c38ad172b48795daa20ee6c59d427e9b50c84a7e9e61b219f"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2005-006-penangguhan-mulai-berlakunya-peraturan-daerah-kabupaten-kulon-progo",
+   "short": "Perda Kulon Progo Regency 6/2005",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 6 TAHUN 2005 TENTANG PENANGGUHAN MULAI BERLAKUNYA PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR 8 TAHUN 2004 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA SEKRETARIAT DAERAH DAN SEKRETARIAT DEWAN PERWAKILAN RAKYAT DAERAH, PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR 9 TAHUN 2004 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA DINAS DAERAH, PERATURAN DAER",
+   "url": "https://jdih.kulonprogokab.go.id/detail/427",
+   "versions": [
+    {
+     "from": "2005-08-09",
+     "units": 5,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/427/PD-6-2005.pdf",
+     "sha256": "e8bcd7ce06dd885a4f18f83045321527b2e68742a282251c4eca959467b47b41"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2005-010-penangguhan-kedua-mulai-berlakunya-peraturan-daerah-kabupaten-kulon",
+   "short": "Perda Kulon Progo Regency 10/2005",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 10 TAHUN 2005 TENTANG PENANGGUHAN KEDUA MULAI BERLAKUNYA PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR 8 TAHUN 2004 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA SEKRETARIAT DAERAH DAN SEKRETARIAT DEWAN PERWAKILAN RAKYAT DAERAH, PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR 9 TAHUN 2004 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA DINAS DAERAH, PERATUR",
+   "url": "https://jdih.kulonprogokab.go.id/detail/431",
+   "versions": [
+    {
+     "from": "2005-12-27",
+     "units": 5,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/431/PD-10-2005.pdf",
+     "sha256": "5fe7b479e662a4be557db951192f3a72d3f28c0093edd259558af1a08b590e27"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2006-001-perubahan-atas-peraturan-daerah-kabupaten-kulon-progo-nomor-1-tahun",
+   "short": "Perda Kulon Progo Regency 1/2006",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 1 TAHUN 2006 TENTANG PERUBAHAN ATAS PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR 1 TAHUN 2005 TENTANG KEDUDUKAN PROTOKOLER DAN KEUANGAN PIMPINAN DAN ANGGOTA DEWAN PERWAKILAN RAKYAT DAERAH",
+   "url": "https://jdih.kulonprogokab.go.id/detail/416",
+   "versions": [
+    {
+     "from": "2006-01-28",
+     "units": 5,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/416/PD-1-06.pdf",
+     "sha256": "f04f1440c0007a355e9e00912ac5f3d6663471d4384ea53d61b52f08936efc72"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2004-009-pembentukan-organisasi-dan-tata-kerja-dinas-daerah",
+   "short": "Perda Kulon Progo Regency 9/2004",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 9 TAHUN 2004 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA DINAS DAERAH",
+   "url": "https://jdih.kulonprogokab.go.id/detail/440",
+   "versions": [
+    {
+     "from": "2006-08-09",
+     "units": 65,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/440/PD-9-04.pdf",
+     "sha256": "bb2267babb6fb7a7be0c01e3ad5184b9c1c027ba2825d5976f1c1a95499463c6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2006-006-perubahan-kedua-atas-peraturan-daerah-kabupaten-kulon-progo-nomor-1",
+   "short": "Perda Kulon Progo Regency 6/2006",
+   "title": "PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR : 6 TAHUN 2006 TENTANG PERUBAHAN KEDUA ATAS PERATURAN DAERAH KABUPATEN KULON PROGO NOMOR 1 TAHUN 2005 TENTANG KEDUDUKAN PROTOKOLER DAN KEUANGAN PIMPINAN DAN ANGGOTA DEWAN PERWAKILAN RAKYAT DAERAH",
+   "url": "https://jdih.kulonprogokab.go.id/detail/421",
+   "versions": [
+    {
+     "from": "2006-12-19",
+     "units": 5,
+     "source_url": "https://jdih.kulonprogokab.go.id/peraturan/421/PD-6-2006.pdf",
+     "sha256": "8b3646fed38f49b69a7623333f0ea0917ca6e4a64b99fe902b12765b3b170bcd"
+    }
+   ]
+  }
+ ]
+}
