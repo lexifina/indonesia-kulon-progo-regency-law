@@ -34,7 +34,7 @@ The text layer of each PDF (no OCR) becomes the record, row by row in reading or
 
 ## How it is checked
 
-Every version is read back from git on the day it took effect and must match the corpus. A second, independent reading of every PDF (a different PDF engine, pdftotext) must hold every paragraph of the record as one unbroken stretch, letter for letter and digit for digit, and the paragraphs together must cover the whole PDF with nothing left over but page numbers and the stamp. Results are in `REPRODUCE.md`.
+Every version is read back from git on the day it took effect and must match the corpus. A second, independent reading of every PDF must hold every paragraph of the record as one unbroken stretch, letter for letter and digit for digit, and the paragraphs together must cover the whole PDF with nothing left over but page numbers and the stamp. The original part used Poppler `pdftotext`; the rechecked breadth part used pypdf plus an independent raw word-sequence comparison against the official PDFs. Results are in `REPRODUCE.md`.
 
 ## What "author" means
 
