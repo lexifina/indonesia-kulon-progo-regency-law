@@ -1,5 +1,7 @@
 # Kulon Progo Regency (Indonesia): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Kulon Progo Regency, Yogyakarta, Indonesia, which global-law reads at `indonesia/yogyakarta/kulon-progo-regency/acts/`.
+
 The Peraturan Daerah (Perda) of Kabupaten Kulon Progo, Indonesia, as a git history: one folder per Perda, one file per Pasal (article), one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the Indonesian text of each Perda as enacted, from the copy (salinan) published by JDIH Kabupaten Kulon Progo (Bagian Hukum Sekretariat Daerah Kabupaten Kulon Progo).
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
